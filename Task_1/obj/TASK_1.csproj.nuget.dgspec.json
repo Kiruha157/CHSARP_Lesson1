@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/TASK_1/TASK_1.csproj": {}
+    "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/Task_1/Task_1.csproj": {}
   },
   "projects": {
-    "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/TASK_1/TASK_1.csproj": {
+    "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/Task_1/Task_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/TASK_1/TASK_1.csproj",
-        "projectName": "TASK_1",
-        "projectPath": "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/TASK_1/TASK_1.csproj",
+        "projectUniqueName": "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/Task_1/Task_1.csproj",
+        "projectName": "Task_1",
+        "projectPath": "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/Task_1/Task_1.csproj",
         "packagesPath": "/Users/smkirill/.nuget/packages/",
-        "outputPath": "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/TASK_1/obj/",
+        "outputPath": "/Users/smkirill/Documents/Обучение GB/CSHARP/LESSON_1/Task_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/smkirill/.nuget/NuGet/NuGet.Config"
